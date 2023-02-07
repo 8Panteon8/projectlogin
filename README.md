@@ -1,1 +1,20 @@
-https://8panteon8.github.io/projectlogin/dist/index.html
+# Login page
+
+[_hosted_](https://login-2603b.web.app)
+
+
+
+
+## Screenshot
+
+<img width="1221" alt="image" src="https://user-images.githubusercontent.com/113831614/217215398-7bc58b5b-1fc8-411b-b121-8955c968e23d.png">
+
+
+# Features
+- Form validation
+- Sending data to a server and getting a response 
+- Notification of result
+
+# References
+- [axios](https://github.com/axios/axios)
+- [bootstrap](https://getbootstrap.com) (5.2.2)
