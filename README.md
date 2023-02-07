@@ -13,7 +13,7 @@
 # Features
 - Form validation
 - Sending data to a server and getting a response 
-- Notification of result
+- Pop-up message about the server response
 
 # References
 - [axios](https://github.com/axios/axios)
