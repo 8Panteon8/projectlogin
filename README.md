@@ -18,6 +18,7 @@
 # References
 - [axios](https://github.com/axios/axios)
 - [bootstrap](https://getbootstrap.com) (5.2.2)
+- [Webpack](https://webpack.js.org)
 
 ---
 **How to make it work?**
