@@ -18,3 +18,20 @@
 # References
 - [axios](https://github.com/axios/axios)
 - [bootstrap](https://getbootstrap.com) (5.2.2)
+
+---
+**How to make it work?**
+
+Loads the node_modules:
+```shell
+npm install
+```
+Running a web server:
+```shell
+npm run dev 
+```
+Webpack build:
+```shell
+npm run build 
+```
+
