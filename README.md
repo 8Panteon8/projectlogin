@@ -22,7 +22,7 @@
 ---
 **How to make it work?**
 
-Loads the node_modules:
+Install the dependencies:
 ```shell
 npm install
 ```
