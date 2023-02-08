@@ -8,8 +8,8 @@
 - Pop-up message about the server response
 
 # References
-- [axios](https://github.com/axios/axios)
-- [bootstrap](https://getbootstrap.com) (5.2.2)
+- [Axios](https://github.com/axios/axios)
+- [Bootstrap](https://getbootstrap.com) (5.2.2)
 - [Webpack](https://webpack.js.org)
 
 ## Screenshot
