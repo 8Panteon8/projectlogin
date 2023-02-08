@@ -1,6 +1,6 @@
 # Login page
 
-[_hosted_](https://login-2603b.web.app)
+[_Hosted_](https://login-2603b.web.app)
 
 # Features
 - Form validation
